@@ -22,3 +22,8 @@ My design values have been shaped tremendously by my present and past experience
 
 - **Keep production in mind**  
   Users see rendered code, not Figma. I'm proud to say that all GIFs in my portfolio are live screen recordings from production site!
+
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/elizabethtan33/) • [Instagram](https://www.instagram.com/tuzzymuzzylizzy/?hl=en) • [Personal site](elizabethtan33.com)
