@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/e09920ac-010d-4601-9467-8549d8c44ae6
 • **Over 50% MAU** download reports and charts, with 20% of users doing so weekly.<br>
 • **Improved data integrity and industry leadership** - The robust data foundation enabled BlueLayer to become a founding member and key contributor to CDOP (Carbon Data Open Protocol), an open-source standard.<br>
 • **300% growth** in enterprise customers over 3 years.<br>
-• Public testimonials from prolific customers
+• [Public testimonials](https://www.linkedin.com/posts/getbluelayer_climatetech-bluelayer-permianglobal-activity-7417179598989365248-WHpS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbsafkBF597YnYTt2-BmJ1vxZ1Uq0vesMQ) from prolific customers
 
 ### My role
 • UX Lead<br>
