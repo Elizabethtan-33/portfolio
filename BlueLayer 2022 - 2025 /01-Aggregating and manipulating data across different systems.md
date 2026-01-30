@@ -12,13 +12,26 @@ How can operations managers make quicker and more intelligent decisions?
 
 https://github.com/user-attachments/assets/e401de63-e104-4d1a-8a22-77192d2a35fa
 
-Ops managers can see at a glance orders that are fulfilled and unfulfilled. They also have the option to click into the numbers and find out 3rd party transaction costs, which gives them a tally of true revenue. Terminology used here comes from Ops manager vernacular instead of a Finance person. <br>
+<br>
 
-I introduced new interaction patterns to support more complex data tables and visualisations.<br>
 
-I also worked in close collaboration with operations and finance managers to determine the filter parameters. We prioritise high frequency use filters and iterated with complex ones after.
+**02 Projections dasboard**
 
-**02 A revenue dashboard**
+https://github.com/user-attachments/assets/8833cde1-f46f-428b-9d1d-2ac4198b9fa7
+
+<br>
+
+
+**03 Data explorer**
+
+https://github.com/user-attachments/assets/e09920ac-010d-4601-9467-8549d8c44ae6
+
+<br>
+
+**04 Creating beautiful charts**
+
+<img width="9204" height="5970" alt="Use case 3_ Chart visualisations" src="https://github.com/user-attachments/assets/d6ee279a-6150-433b-ba5d-ebee4f3fce7e" />
+
 
 ---
 
